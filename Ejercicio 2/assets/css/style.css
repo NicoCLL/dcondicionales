@@ -1,0 +1,14 @@
+.card img{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.card{
+    height: 600px;
+    width: 200px;
+}
+
+.comprobacion{
+    display: flex;
+    justify-content: center;
+}
